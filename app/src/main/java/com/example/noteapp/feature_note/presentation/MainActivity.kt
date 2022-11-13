@@ -1,9 +1,9 @@
-package com.example.noteapp
+package com.example.noteapp.feature_note.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import com.example.noteapp.ui.theme.NoteAppTheme
+import com.example.noteapp.feature_note.ui.theme.NoteAppTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
