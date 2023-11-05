@@ -3,7 +3,7 @@
 ## Overview
 This Android project is a Note App, designed to help users create and manage their notes efficiently. It leverages various modern technologies and libraries to provide a seamless and productive note-taking experience.
 
-**Please note:** This app may have drawn inspiration from various sources and tutorials for educational purposes.
+**Please note:** This app was created based on the tutorial by Philipp Lackner and is primarily intended for educational purposes.
 
 ## Technologies and Libraries Used
 
